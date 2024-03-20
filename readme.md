@@ -12,5 +12,4 @@ On my website, you will find a selection of my work, from initial sketches to co
 You can find me on Linkedin and Instragram. These are the social networks I use the most.
 
 ## Skills
-
-- Coaching
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
