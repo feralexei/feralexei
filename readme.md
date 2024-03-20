@@ -12,7 +12,5 @@ On my website, you will find a selection of my work, from initial sketches to co
 You can find me on Linkedin and Instragram. These are the social networks I use the most.
 
 ## Technologies
-
--HTML
--CSS
--JS
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
