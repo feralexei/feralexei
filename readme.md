@@ -11,3 +11,8 @@ On my website, you will find a selection of my work, from initial sketches to co
 
 You can find me on Linkedin and Instragram. These are the social networks I use the most.
 
+## Languages
+
+- English
+- Spanish
+- Portuguese
