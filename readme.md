@@ -13,3 +13,9 @@ You can find me on Linkedin and Instragram. These are the social networks I use 
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+## Hobbies
+
+- Reading books (I love science fiction)
+
+
