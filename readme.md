@@ -13,4 +13,19 @@ You can find me on Linkedin and Instragram. These are the social networks I use 
 
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+<<<<<<< HEAD
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+=======
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+
+## Hobbies
+
+- Reading books (I love science fiction)
+
+  
+
+
+>>>>>>> 80fb4615bf79702e5c491f03868085242040203d
