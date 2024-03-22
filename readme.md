@@ -11,6 +11,7 @@ On my website, you will find a selection of my work, from initial sketches to co
 
 You can find me on Linkedin and Instragram. These are the social networks I use the most.
 
+<<<<<<< HEAD
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 <<<<<<< HEAD
@@ -39,3 +40,10 @@ You can find me on Linkedin and Instragram. These are the social networks I use 
 =======
 - Reading books (I love science fiction)
 >>>>>>> ea43aaa9c527a87aaa0992e4a75d5632c0fac4e8
+=======
+## Languages
+
+- English
+- Spanish
+- Portuguese
+>>>>>>> 63f32643a9d0b2696a7907cfb4aa916e49b308f5
