@@ -7,6 +7,11 @@ I am Fernando, a passionate Digital artist specialised in 3D character creation.
 ## Looking Ahead
 On my website, you will find a selection of my work, from initial sketches to completed projects. I invite you to explore my gallery, and if you are interested in collaborating on a project or have any questions, feel free to contact me. Thank you for visiting my page. I hope you enjoy your stay!
 
+##Techonlogies 
+HTML
+CSS
+Javascript
+
 ## Contact me
 
 You can find me on Linkedin and Instragram. These are the social networks I use the most.
