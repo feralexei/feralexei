@@ -7,10 +7,10 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on HTML, CSS and 
 ## Looking Ahead
 On my website, you will find a selection of my work, from initial web drafts to completed projects. I invite you to explore my portfolio, and if you are interested in collaborating on a project or have any questions, feel free to contact me. Thank you for visiting my page. I hope you enjoy your stay!
 
-##Techonlogies 
-HTML
-CSS
-Javascript
+## Techonlogies 
+- HTML
+- CSS
+- Javascript
 
 ## Contact me
 
