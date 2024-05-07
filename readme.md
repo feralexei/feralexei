@@ -2,10 +2,10 @@
 
 ## About Me:
 
-I am Fernando, a passionate Digital artist specialised in 3D character creation. For me, each project is an opportunity to explore new techniques and experiment with different styles. Whether I'm working on animation projects, video games, 3D printing, or advertising, I strive to create works that are not only visually stunning but also convey deep emotions and narratives.
+Hello! I'm a passionate Full Stack Developer with a keen focus on HTML, CSS and JavaScript. For me, each project is an opportunity to explore new technologies and improve my skills. I really like working with frontend technologies and create amazing user experiences.
 
 ## Looking Ahead
-On my website, you will find a selection of my work, from initial sketches to completed projects. I invite you to explore my gallery, and if you are interested in collaborating on a project or have any questions, feel free to contact me. Thank you for visiting my page. I hope you enjoy your stay!
+On my website, you will find a selection of my work, from initial web drafts to completed projects. I invite you to explore my portfolio, and if you are interested in collaborating on a project or have any questions, feel free to contact me. Thank you for visiting my page. I hope you enjoy your stay!
 
 ##Techonlogies 
 HTML
